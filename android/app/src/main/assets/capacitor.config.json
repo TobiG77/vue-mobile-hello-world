@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.vuemobilehelloworld",
+  "appName": "VueMobileHelloWorld",
+  "bundledWebRuntime": false,
+  "webDir": "public"
+}

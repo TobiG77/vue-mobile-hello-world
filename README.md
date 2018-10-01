@@ -1,5 +1,11 @@
 # vue-mobile-hello-world
 
+Exploring vuejs + ionic + capacitor
+
+Things learned:
+
+- the capacitor team uses npm and has not tested yarn at all.
+
 ## Project setup
 ```
 yarn install
